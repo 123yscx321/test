@@ -67,4 +67,5 @@ int main()
 	std::cout << "--------------------8--------------------" << std::endl;
 	A aaaaaaa(std::move(a));
 	std::cout << "--------------------9--------------------" << std::endl;
+	return 0;
 }
